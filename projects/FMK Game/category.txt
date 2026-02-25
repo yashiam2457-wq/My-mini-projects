@@ -1,0 +1,87 @@
+Anime,Naruto,45
+Anime,Fairy Tail,26
+Anime,Bleach,20
+Anime,One Piece,8
+Anime,Jujutsu Kaisen,9
+Anime,Akame Ga Kill,11
+Anime,Danmachi,12
+Anime,Dandadan,3
+Anime,Hidden Dungeon Only I can Enter,10
+Anime,Steins;Gate,9
+Anime,Code Geass,21
+Anime,Death Note,3
+Anime,Evangelion,0
+Anime,Attack On Titan,7
+Anime,Haikyuu,6
+Anime,One Punch Man,7
+Anime,Re:Zero,19
+Anime,Erased,6
+Anime,Black Clover,19
+Anime,Sword Art Online,18
+Anime,Frieren,15
+Anime,Noragami,10
+Anime,Konosuba,19
+Anime,Darling in the Franxx,9
+Anime,Overlord,18
+Anime,Rising of the Shield Hero,17
+Anime,Kakegurui,18
+Anime,Assassination Classroom,13
+Anime,Pokemon,41
+Anime,Classroom of Elite,19
+Anime,Apothecary Diaries,15
+Anime,Demon Slayer,20
+Anime,Bunny Girl Senpai,8
+Anime,Ghost in the Shell,4
+Anime,Eminence in The Shadow,22
+Anime,My Hero Academia,23
+Anime,Chainsaw Man,17
+Anime,Future Diary,12
+Anime,Spy x Family,10
+Anime,Solo Leveling,6
+Anime,Zom 100,4
+Anime,7th Time Loop,4
+Anime,Cautious Hero,7
+Anime,Unwanted Undead Adventurer,4
+Anime,Summer Time Rendering,6
+Anime,7 deadly Sins,13
+Anime,Kaiju No 8,3
+Anime,Why Does Nobody Remember Me in This World,4
+Anime,Cyberpunk Edge Runner,5
+Anime,Arifureta,8
+Anime,Oshi no Ko,8
+Anime,I am Quiting Heroing,3
+Anime,How a Realist Hero Rebuilt the Kingdom,7
+Anime,Let This Grieving Soul Retire,4
+Anime,Kengin Ashura,5
+Anime,Asterisk War,7
+Anime,Hunter x Hunter,12
+Anime,Orient,9
+Anime,I'm the Evil Lord of an Intergalactic Empire,0
+Anime,Deadman Wonderland,6
+Anime,Witch Craft Works,9
+Anime,Mashle,7
+Anime,Prison School,8
+Anime,Plunderer,5
+Video Game,Tekken,19
+Anime,Zero Louise,17
+Video Game,Street Fighter,19
+Video Game,King of Fighter,15
+Video Game,Soul Calibur,13
+Video Game,Resident Evil,18
+Video Game,Cyberpunk 2077,13
+Video Game,Metroid,3
+Video Game,Bayonetta,4
+Video Game,Nier Automata,8
+Video Game,God of War,12
+Video Game,Legend of Zelda,16
+Video Game,Bioshock,9
+Video Game,Metal Gear Solid,21
+Video Game,Red Dead Redemption,10
+Video Game,Last of Us,9
+Video Game,Mario,4
+Video Game,Detroit:Become Human,7
+Video Game,Final Fantasy,27
+Video Game,Dead or Alive,16
+SuperHero,Marvel,66
+SuperHero,DC,24
+Video Game,Mortal Kombat,23
